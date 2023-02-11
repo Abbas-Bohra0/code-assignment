@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: oldlace;
+  
+}
+
+.outer-div {
+    display: flex;
+    flex-direction: column;
+        
+    
+}
+
+.inner-div {
+    justify-content: center;
+  
+}
+
+img{
+    height: 100px;
+    weight: 100px;
+}
